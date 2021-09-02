@@ -1,4 +1,5 @@
 <?php
+// Commentaire test push develop
 session_start();
 require_once "fonctions/bdd.php";
 include_once "fonctions/blog.php";
