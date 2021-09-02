@@ -1,7 +1,6 @@
 <?php
 // Commentaire test push develop
 session_start();
-// Ajout commentaire test push develop
 require_once "fonctions/bdd.php";
 include_once "fonctions/blog.php";
 $bdd = bdd();
